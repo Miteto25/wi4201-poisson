@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv*/
+*.egg-info/
+.tmp-pdf-reader/
+.review/
+.tools/
+report/*.aux
+report/*.log
+report/*.out
+submission.zip
+report-latex.zip
